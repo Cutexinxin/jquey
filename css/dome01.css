@@ -1,0 +1,82 @@
+.header{
+display: flex;
+justify-content: center;
+margin-top: 25px;
+}
+.slideshow{
+    margin-top: 25px;
+}
+.active img{
+    height: 800px !important;
+}
+.header img{
+    margin-right: 100px;
+    height: 40px;
+}
+ .nav-tabs {
+   border-bottom: none !important;
+}
+.nav-tabs a{
+    color: black;
+}
+.nav-tabs a:hover{
+    border-bottom: 1px solid #d61919 !important;
+    color: #d61919 !important;
+    background-color: #fff!important;
+}
+.carousel-control{
+    background-image: none !important;
+}
+.slideshow{
+    position: relative;
+}
+.lunbo{
+    position: absolute;
+    top: 300px;
+    right: 500px;
+}
+.icon{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.icon img{
+    width: 100px;
+
+}
+.underline{
+    box-sizing: border-box;
+    border-bottom: 2px dashed #eeee;
+    margin-top: 50px;;
+}
+.company img{
+    margin-right: 20px;
+}
+.general{
+    display: flex;
+    justify-content: start;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.character{
+    margin-left: 20px;
+    width: 400px;
+}
+.character p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.character span{
+    color: #888888;
+}
+.character img{
+    width: 30px;
+}
+.details{
+    color: #d61919 !important;
+    margin-left: 150px !important;
+}
+.icon2 img{
+    width: 70px;
+    margin-top: 30px;
+}

@@ -1,0 +1,114 @@
+.headline{
+    display: flex;
+    justify-content: space-between;
+}
+.headlinepng{
+    margin-left: 100px;
+}
+.nav-tabs{
+    border-style: none !important;
+    margin-top: 15px;
+    margin-right: 50px;
+}
+.nav-tabs a{
+    color: black !important;
+}
+.nav-tabs a:hover{
+    border-bottom: 1px solid #d61919 !important;
+    color: #d61919 !important;
+    background-color: #fff!important;
+}
+.carousel-control{
+    background-image: none !important;
+}
+.carousel-inner{
+    margin-top: 20px;
+}
+.slideshow{
+    position: relative;
+}
+.lunbo{
+    position: absolute;
+    top:100px;
+    left: 400px;
+}
+.business{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.sign ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.news{
+    background-color: #eeeeee;
+    height: 600px;
+}
+.dynamic img{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.describe1 span{
+    color: #9d9d9d;
+    margin-left: 150px;
+}
+.describe1 div{
+    width: 100px;
+    height: 20px;
+    margin-left:130px ;
+    background-color: #d61919;
+    text-align: center;
+    line-height: 20px;
+    border-radius:65px ;
+    color: #fff;
+    font-size: 10px !important;
+}
+.describe1 img{
+    width: 400px;
+}
+.describe1 p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.describe{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.brand1{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.background{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.background1 img{
+    width: 380px;
+}
+.background1{
+    position: relative;
+}
+.background2{
+    /* background-color: #c81912; */
+    position: absolute;
+    top:20px;
+}
+.background2 img{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.content{
+    text-align: center;
+}
+.content h3{
+    margin-top: 100px;
+}
+.content span{
+    font-size: 30px;
+
+}
